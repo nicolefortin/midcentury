@@ -2,8 +2,8 @@ midcentury
 ==========
 ## More Important
 * Tagline
-* List of featured posts
-* List of recent posts
+* Post - Body, Header, Date/Time
+* About Blurb
 * Email
 * Address
 
@@ -12,11 +12,12 @@ midcentury
 * Post - Time
 * Post - Author
 * Post - Category
-* List of posts by month
-* List of categories
-* List of tags
+* List of recent posts
 
 ## Discard
-* Post - Tags
+* List of tags
+* List of posts by month
 * Post - Related Posts
 * Calendar
+* Categories List
+* List of featured posts
